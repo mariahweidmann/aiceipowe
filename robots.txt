@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uthodidoer.apioarchitect.com/sitemap.xml
